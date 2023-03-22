@@ -45,7 +45,7 @@
 ## Install And Use App
 - Install Application 
   1. Make sure you already have / download the MovTV apk file
-     [MovTV.apk](https://github.com/andreraharja/movtv/screenshot/FileAPK.jpg?raw=true)
+     [MovTV.apk](https://github.com/andreraharja/movtv/blob/main/screenshot/FileAPK.jpg)
 
 ## Build Deploy
 - Build -> Flutter -> Build APK
