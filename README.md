@@ -60,4 +60,4 @@
 - Build -> Flutter -> Build APK
 
 ## Acknowledgements
-- This project use api from [themoviedbthemoviedb](https://developers.themoviedb.org/3/getting-started/introduction)
+- This project use api from [themoviedb](https://developers.themoviedb.org/3/getting-started/introduction)
